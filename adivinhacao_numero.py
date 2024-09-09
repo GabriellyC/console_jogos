@@ -30,7 +30,7 @@ def jogo():
     if jogar_denovo == '1':
         jogo()
     else:
-      print("Jogo encerrado :(")
-      return
+        print("Jogo encerrado :(")
+        return
 
 jogo()

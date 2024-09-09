@@ -4,6 +4,7 @@ vitorias = 0
 derrotas = 0
 
 def jogo_jokenpo():
+    
     global vitorias, derrotas
     jogada = ['pedra', 'papel', 'tesoura']
     jogada_computador = random.choice(jogada)
