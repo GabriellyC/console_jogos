@@ -19,5 +19,3 @@ def quiz():
 
     print(f"Seus pontos são: {pontos_total}! Obrigado por participar.")
 
-
-quiz()

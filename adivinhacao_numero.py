@@ -32,5 +32,3 @@ def jogo():
     else:
         print("Jogo encerrado :(")
         return
-
-jogo()

@@ -39,4 +39,3 @@ def jogo_jokenpo():
         print("Jogo encerrado :(")
         return
 
-jogo_jokenpo()

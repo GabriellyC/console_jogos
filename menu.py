@@ -2,6 +2,7 @@
 from adivinhacao_numero import jogo
 from jokenpo import jogo_jokenpo
 from quiz import quiz
+
 print("Bem vindo ao console de jogos em Python!")
 
 menu = '''
